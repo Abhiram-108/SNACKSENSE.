@@ -37,10 +37,22 @@
 
 ---
 
+
 ## 🖥️ Screenshots
 
 > *(Add some screenshots or a demo gif of your application here)*
 ![loginpage](https://github.com/user-attachments/assets/0d9e2e66-b087-473c-94bb-667f0a637365)
+> ![signup](https://github.com/user-attachments/assets/0e8ceef0-6a83-483e-a23a-7f049974ddc9)
+> ![homepage](https://github.com/user-attachments/assets/d0025341-bcbb-4a14-9c89-bc549e688d65)
+> ![resultpage](https://github.com/user-attachments/assets/43221870-a0a3-4f3c-b0b4-a81ac9b5b127)
+>![resul2](https://github.com/user-attachments/assets/4ada5389-4a47-4fb5-ab99-737262448515)
+
+> ![result3](https://github.com/user-attachments/assets/ba634f45-a003-4260-879c-479ebd4a78fe)
+
+
+
+
+> 
 
 ---
 
