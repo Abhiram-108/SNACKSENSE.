@@ -40,7 +40,7 @@
 ## 🖥️ Screenshots
 
 > *(Add some screenshots or a demo gif of your application here)*
-[loginpage](https://github.com/user-attachments/assets/0d9e2e66-b087-473c-94bb-667f0a637365)
+![loginpage](https://github.com/user-attachments/assets/0d9e2e66-b087-473c-94bb-667f0a637365)
 
 ---
 
